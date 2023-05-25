@@ -1,11 +1,8 @@
 # Coding Task - Lösung
 
-___
 Die Lösung wurde in Kotlin geschrieben und kann mit Hilfe von Gradle gebaut werden.
 
 ## Lösungsansatz
-
-___
 
 ### Merge Funktion
 
@@ -22,8 +19,6 @@ Danach wird ein mal durch die Intervalle iteriert, um alle nicht überlappten In
 
 ## Annahmen
 
-___
-
 - Ein Intervall ist immer in der Form [**a**,**b**] - wobei **a < b**, sowie **a** und **b** vom Typ Integer sind
 - Es können gleiche a oder b Werte in der Liste übergeben werden
 - Intervalle können auch negative Werte haben
@@ -31,7 +26,6 @@ ___
 
 ## Build
 
-___
 Über Gradle kann die Kotlin-Datei kompiliert bzw. gebaut werden.
 
 ### Konsole
@@ -52,7 +46,6 @@ Projekt mit Intellij öffnen und Gradle Skript ausführen.
 
 ## Ausführen
 
-___
 **Beispiel:**
 
 ````
